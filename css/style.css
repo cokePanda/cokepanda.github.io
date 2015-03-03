@@ -160,7 +160,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #34495e;
+  color: #fff;
   font-weight: bold;
 }
 h1 a,
@@ -169,7 +169,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-  color: #34495e;
+  color: #fff;
   text-decoration: none;
 }
 h1 a:hover,
@@ -178,7 +178,7 @@ h3 a:hover,
 h4 a:hover,
 h5 a:hover,
 h6 a:hover {
-  color: #34495e;
+  color: #fff;
 }
 h1 {
   font-size: 150%;
@@ -220,7 +220,7 @@ table {
 }
 dt,
 dl {
-  color: #555;
+  color: #fff;
 }
 dt {
   font-weight: bold;
@@ -252,7 +252,7 @@ body {
   font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, HiraginoSansGB, sans-serif;
   font-size: 18px;
   font-weight: 300;
-  background: #fff;
+  background: #696969;
   line-height: 1.8;
 }
 @media screen and (max-width: 1040px) {
@@ -301,7 +301,7 @@ body {
   }
 }
 #header a {
-  color: #34495e;
+  color: #fff;
   -webkit-transition: color 0.3s;
   -moz-transition: color 0.3s;
   -o-transition: color 0.3s;
@@ -337,7 +337,7 @@ body {
   font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, HiraginoSansGB, sans-serif;
   font-weight: 100;
   font-size: 32px;
-  color: #34495e;
+  color: #fff;
 }
 @media screen and (max-width: 1040px) {
   #header .tagline {
@@ -365,7 +365,7 @@ body {
   margin-left: 0;
   text-align: left;
   border-bottom: 0px;
-  color: #34495e;
+  color: #fff;
 }
 .list h3 {
   font-size: 20px;
@@ -373,7 +373,7 @@ body {
   font-weight: normal;
 }
 .list h3 a {
-  color: #34495e;
+  color: #fff;
   font-weight: bold;
   -webkit-transition: color 0.3s;
   -moz-transition: color 0.3s;
@@ -391,7 +391,7 @@ body {
   margin-bottom: 20px;
 }
 .archive-category {
-  color: #555;
+  color: #fff;
   display: inline-block;
 }
 .archive-category a {
@@ -414,7 +414,7 @@ body {
   margin-left: 0;
   text-align: left;
   border-bottom: 0;
-  color: #34495e;
+  color: #fff;
 }
 @media screen and (max-width: 1040px) {
   .article h3 a.article-title {
@@ -439,13 +439,13 @@ body {
 }
 .article .article-entry h2 {
   font-weight: bold;
-  color: #555;
+  color: #fff;
   border-bottom: 1px solid #e5e5e5;
   margin: 50px 0 20px;
 }
 .article .article-entry h3 {
   font-weight: bold;
-  color: #555;
+  color: #fff;
   margin-bottom: 18px;
 }
 .article .article-entry h6 {
@@ -453,7 +453,7 @@ body {
 }
 .article .article-entry p,
 .article .article-entry li {
-  color: #555;
+  color: #fff;
 }
 .article .article-entry p {
   margin-top: 10px;
@@ -556,7 +556,7 @@ body {
   margin: auto;
 }
 .article .article-entry table {
-  color: #555;
+  color: #fff;
   margin: 0;
   width: 100%;
   border-collapse: collapse;
@@ -605,7 +605,7 @@ body {
   margin-left: 1em;
 }
 .article .article-entry .caption {
-  color: #555;
+  color: #fff;
   display: block;
   font-size: 0.8em;
   margin-top: 0.5em;
