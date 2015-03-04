@@ -278,7 +278,7 @@ p {
   margin: 20px 0;
 }
 a {
-  color: #222;
+  color: #f1c40f;
   text-decoration: none;
   border-bottom: 1px solid #999;
 }
@@ -893,7 +893,7 @@ pre .javascript .function {
 }
 .headband {
   height: 3px;
-  background: #222;
+  background: #fff;
 }
 .header {
   background: #808080;
@@ -1096,7 +1096,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7865ff;
+  background: #ffff2f;
 }
 .sidebar-nav {
   margin: 0;
