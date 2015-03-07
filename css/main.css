@@ -205,8 +205,8 @@ body {
   font-family: Lato, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   font-size: 16px;
   line-height: 1.8;
-  color: #fff;
-  background: #333;
+  color: #555;
+  background: #fff;
 }
 h1,
 h2,
@@ -827,10 +827,10 @@ pre .javascript .function {
 }
 .headband {
   height: 3px;
-  background: #fff;
+  background: #222;
 }
 .header {
-  background: #808080;
+  background: #fff;
 }
 .header-inner {
   position: relative;
@@ -1030,7 +1030,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #749ebd;
+  background: #37d28f;
 }
 .sidebar-nav {
   margin: 0;
