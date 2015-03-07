@@ -843,7 +843,7 @@ pre .javascript .function {
   display: inline-block;
   padding: 0 25px;
   color: #000;
-  background: #2f4f4f;
+  background: #87ceeb;
   border-bottom: none;
   font-family: Lato, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
 }
@@ -1030,7 +1030,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #37d28f;
+  background: #aacc30;
 }
 .sidebar-nav {
   margin: 0;
