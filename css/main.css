@@ -205,8 +205,8 @@ body {
   font-family: Lato, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   font-size: 16px;
   line-height: 1.8;
-  color: #555;
-  background: #fff;
+  color: #fff;
+  background: #333;
 }
 h1,
 h2,
@@ -1030,7 +1030,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #5b0303;
+  background: #ff8aff;
 }
 .sidebar-nav {
   margin: 0;
