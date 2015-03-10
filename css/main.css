@@ -1030,7 +1030,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffc64a;
+  background: #ff74ff;
 }
 .sidebar-nav {
   margin: 0;
@@ -1681,7 +1681,4 @@ pre .javascript .function {
 }
 .page-post-detail .comments {
   overflow: hidden;
-}
-.page-home .post-tags {
-  display: block;
 }
