@@ -205,8 +205,8 @@ body {
   font-family: Lato, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   font-size: 16px;
   line-height: 1.8;
-  color: #fff;
-  background: #333;
+  color: #000;
+  background: #ccc;
 }
 h1,
 h2,
@@ -827,10 +827,10 @@ pre .javascript .function {
 }
 .headband {
   height: 3px;
-  background: #222;
+  background: #fff;
 }
 .header {
-  background: #fff;
+  background: #ccc;
 }
 .header-inner {
   position: relative;
@@ -843,7 +843,7 @@ pre .javascript .function {
   display: inline-block;
   padding: 0 25px;
   color: #000;
-  background: #87ceeb;
+  background: #39c;
   border-bottom: none;
   font-family: Lato, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
 }
@@ -1030,7 +1030,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff74ff;
+  background: #f7d798;
 }
 .sidebar-nav {
   margin: 0;
