@@ -260,14 +260,14 @@ body {
 .logo {
   display: block;
   padding: 10px 0;
-  width: 165px;
-  height: 60px;
-  background-image: url("images/logo-header.png");
+  width: 135px;
+  height: 24px;
+  background-image: url("images/new.png");
   background-position: 0px 10px;
   background-repeat: no-repeat;
-  -webkit-background-size: 165px 60px;
-  -moz-background-size: 165px 60px;
-  background-size: 165px 60px;
+  -webkit-background-size: 135px 24px;
+  -moz-background-size: 135px 24px;
+  background-size: 135px 24px;
 }
 .main-body {
   margin-top: -60px;
@@ -329,7 +329,7 @@ body {
   clear: both;
 }
 #header {
-  background: #26272b;
+  background: #708090;
   padding-bottom: 60px;
   position: relative;
 }
@@ -363,7 +363,7 @@ body {
 #header-title .subtitle {
   font-size: 16px;
   font-style: italic;
-  line-height: 70px;
+  line-height: 34px;
   color: rgba(255,255,255,0.7);
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
@@ -1502,11 +1502,11 @@ a.article-title:hover {
   font-size: 38px;
 }
 #footer .logo {
-  width: 132px;
-  height: 48px;
-  -webkit-background-size: 132px 48px;
-  -moz-background-size: 132px 48px;
-  background-size: 132px 48px;
+  width: 108px;
+  height: 19.200000000000003px;
+  -webkit-background-size: 108px 19.200000000000003px;
+  -moz-background-size: 108px 19.200000000000003px;
+  background-size: 108px 19.200000000000003px;
 }
 .article-entry pre,
 .article-entry .highlight {
