@@ -451,7 +451,7 @@ body {
 }
 .nav-container .nav-container-inner #main-nav .main-nav-list-item.top-level-menu:hover > a {
   color: #fff;
-  background: rgba(0,0,0,0.1);
+  background: #000;
 }
 .nav-container .nav-container-inner #main-nav .main-nav-list-item .main-nav-list-link {
   line-height: 20px;
@@ -505,7 +505,7 @@ body {
 }
 .search-form-input {
   width: 100px;
-  border: dash;
+  border: solid thin;
   outline: none;
   background: none;
   line-height: 1.6em;
@@ -575,10 +575,10 @@ body {
 #sidebar .sidebar-top .social-links li a:hover i:before {
   color: #fff;
 }
-#sidebar .sidebar-top .social-links .social-tooltip {
+#sidebar .sidebar-top .social-tooltip {
   position: relative;
 }
-#sidebar .sidebar-top .social-links .social-tooltip:hover:after {
+#sidebar .sidebar-top .social-tooltip:hover:after {
   top: -41px;
   background: #fff;
   font-size: 14px;
@@ -596,7 +596,7 @@ body {
   text-transform: uppercase;
   z-index: 1;
 }
-#sidebar .sidebar-top .social-links .social-tooltip:hover:before {
+#sidebar .sidebar-top .social-tooltip:hover:before {
   top: -10px;
   right: 8px;
   border: solid;
