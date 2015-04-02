@@ -259,15 +259,15 @@ body {
 }
 .logo {
   display: block;
-  padding: 8px 0;
-  width: 135px;
-  height: 24px;
+  padding: 5px 0;
+  width: 94.5px;
+  height: 16.799999999999997px;
   background-image: url("images/new.png");
   background-position: 0px 10px;
   background-repeat: no-repeat;
-  -webkit-background-size: 135px 24px;
-  -moz-background-size: 135px 24px;
-  background-size: 135px 24px;
+  -webkit-background-size: 94.5px 16.799999999999997px;
+  -moz-background-size: 94.5px 16.799999999999997px;
+  background-size: 94.5px 16.799999999999997px;
 }
 .main-body {
   margin-top: -30px;
@@ -363,7 +363,7 @@ body {
 #header-title .subtitle {
   font-size: 16px;
   font-style: italic;
-  line-height: 34px;
+  line-height: 26.799999999999997px;
   color: #000;
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
@@ -514,7 +514,7 @@ body {
   -ms-transition: 0.2s ease-in;
   transition: 0.2s ease-in;
   font: 16px "Titillium Web", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
-  color: #fff;
+  color: #f5f5f5;
 }
 .search-form-input:focus {
   width: 200px;
@@ -1502,11 +1502,11 @@ a.article-title:hover {
   font-size: 38px;
 }
 #footer .logo {
-  width: 108px;
-  height: 19.200000000000003px;
-  -webkit-background-size: 108px 19.200000000000003px;
-  -moz-background-size: 108px 19.200000000000003px;
-  background-size: 108px 19.200000000000003px;
+  width: 75.60000000000001px;
+  height: 13.439999999999998px;
+  -webkit-background-size: 75.60000000000001px 13.439999999999998px;
+  -moz-background-size: 75.60000000000001px 13.439999999999998px;
+  background-size: 75.60000000000001px 13.439999999999998px;
 }
 .article-entry pre,
 .article-entry .highlight {
