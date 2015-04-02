@@ -260,14 +260,14 @@ body {
 .logo {
   display: block;
   padding: 5px 0;
-  width: 94.5px;
-  height: 16.799999999999997px;
+  width: 108px;
+  height: 19.200000000000003px;
   background-image: url("images/new.png");
   background-position: 0px 10px;
   background-repeat: no-repeat;
-  -webkit-background-size: 94.5px 16.799999999999997px;
-  -moz-background-size: 94.5px 16.799999999999997px;
-  background-size: 94.5px 16.799999999999997px;
+  -webkit-background-size: 108px 19.200000000000003px;
+  -moz-background-size: 108px 19.200000000000003px;
+  background-size: 108px 19.200000000000003px;
 }
 .main-body {
   margin-top: -30px;
@@ -363,7 +363,7 @@ body {
 #header-title .subtitle {
   font-size: 16px;
   font-style: italic;
-  line-height: 26.799999999999997px;
+  line-height: 29.200000000000003px;
   color: #000;
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
@@ -1502,11 +1502,11 @@ a.article-title:hover {
   font-size: 38px;
 }
 #footer .logo {
-  width: 75.60000000000001px;
-  height: 13.439999999999998px;
-  -webkit-background-size: 75.60000000000001px 13.439999999999998px;
-  -moz-background-size: 75.60000000000001px 13.439999999999998px;
-  background-size: 75.60000000000001px 13.439999999999998px;
+  width: 86.4px;
+  height: 15.360000000000003px;
+  -webkit-background-size: 86.4px 15.360000000000003px;
+  -moz-background-size: 86.4px 15.360000000000003px;
+  background-size: 86.4px 15.360000000000003px;
 }
 .article-entry pre,
 .article-entry .highlight {
