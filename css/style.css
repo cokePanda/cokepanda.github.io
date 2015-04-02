@@ -259,7 +259,7 @@ body {
 }
 .logo {
   display: block;
-  padding: 5px 0;
+  padding: 6px 0;
   width: 108px;
   height: 19.200000000000003px;
   background-image: url("images/new.png");
@@ -500,7 +500,7 @@ body {
 .search-form:before {
   content: "\f002";
   margin-right: 8px;
-  color: #fff;
+  color: rgba(255,233,255,0.7);
   font: normal normal normal 16px/1 FontAwesome;
 }
 .search-form-input {
@@ -514,7 +514,7 @@ body {
   -ms-transition: 0.2s ease-in;
   transition: 0.2s ease-in;
   font: 16px "Titillium Web", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
-  color: #f5f5f5;
+  color: rgba(255,233,255,0.7);
 }
 .search-form-input:focus {
   width: 200px;
@@ -575,10 +575,10 @@ body {
 #sidebar .sidebar-top .social-links li a:hover i:before {
   color: #fff;
 }
-#sidebar .sidebar-top .social-tooltip {
+#sidebar .sidebar-top .social-links .social-tooltip {
   position: relative;
 }
-#sidebar .sidebar-top .social-tooltip:hover:after {
+#sidebar .sidebar-top .social-links .social-tooltip:hover:after {
   top: -41px;
   background: #fff;
   font-size: 14px;
@@ -596,7 +596,7 @@ body {
   text-transform: uppercase;
   z-index: 1;
 }
-#sidebar .sidebar-top .social-tooltip:hover:before {
+#sidebar .sidebar-top .social-links .social-tooltip:hover:before {
   top: -10px;
   right: 8px;
   border: solid;
@@ -1486,7 +1486,7 @@ a.article-title:hover {
   color: #777;
   overflow: hidden;
   text-align: center;
-  width: 60px;
+  width: 30px;
   height: 30px;
   display: block;
   margin: 0 auto -30px;
