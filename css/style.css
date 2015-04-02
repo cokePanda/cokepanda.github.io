@@ -518,6 +518,7 @@ body {
 }
 .search-form-input:focus {
   width: 200px;
+  color: #fff;
 }
 .search-form-input::-webkit-search-results-decoration,
 .search-form-input::-webkit-search-cancel-button {
