@@ -299,7 +299,7 @@ body {
   min-height: 600px;
 }
 #main .main-body-header {
-  background: #eaeaea;
+  background: #fff;
   position: relative;
   padding: 2px 30px 3px;
   border-bottom: 0px solid #eee;
@@ -536,7 +536,7 @@ body {
   display: none;
 }
 #sidebar .sidebar-top {
-  background: #3b8dbd;
+  background: #fff;
   padding: 0px 30px;
 }
 #sidebar .sidebar-top:before,
@@ -557,7 +557,7 @@ body {
 }
 #sidebar .sidebar-top p {
   float: left;
-  color: rgba(255,255,255,0.8);
+  color: #3b8dbd;
   font-size: 14px;
   font-weight: 400;
   text-transform: uppercase;
@@ -574,7 +574,7 @@ body {
   margin-left: 18px;
 }
 #sidebar .sidebar-top .social-links li a:hover i:before {
-  color: #fff;
+  color: #0ff;
 }
 #sidebar .sidebar-top .social-links .social-tooltip {
   position: relative;
@@ -609,7 +609,7 @@ body {
   z-index: 2;
 }
 #sidebar .sidebar-top i {
-  color: rgba(255,255,255,0.7);
+  color: #3b8dbd;
   font-size: 24px;
   width: 24px;
 }
@@ -673,7 +673,7 @@ body {
 }
 .widget-wrap {
   padding: 30px 30px 20px;
-  border-right: 0px dashed #696969;
+  border-right: 0px solid #e4e4e4;
 }
 .widget-title {
   font-size: 15px;
@@ -838,7 +838,7 @@ body {
   color: #444;
 }
 #recent-post li .item-inner .item-title {
-  font-size: 15px;
+  font-size: 8px;
 }
 #recent-post li .item-inner .item-title a {
   color: #444;
