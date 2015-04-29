@@ -1,0 +1,23 @@
+name: cokepanda
+description:  It's all about panda, Chinese people and their stories
+
+sass:
+  sass_dir: assets/css/_sass
+  style: :compressed
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "tables", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+
+url: http://localhost:4000
+permalink: /:year/:month/:title/
+owner:
+    name: Jake Z
+    twitter: jokepanda
+    github: cokepanda
+    disqus_shortname: cokepanda
+
+ga_id: #
+ga_username: #
+
+timezone: Asia/Shanghai

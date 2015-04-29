@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<div class="col-sm-12">
+    <div class="page">
+    	<div class="page-title">
+    		{{ page.title }}
+    		<div class="meta">    			
+                {% if site.owner.name %}
+                By {{site.owner.name}},
+                {% endif %}
+    			<time class="timeago" datetime="{{ page.date }}">{{ page.date |  date: "%A %-d %B %Y" }}</time>,
+    			<a href="{{ page.url | prepend: site.url }}#disqus_thread">0 <img  src="/16px/0008-quill.png"></a>
+    			
+    		</div>
+    	</div>
+        <div class="page-content">
+            {{ content }}
+            <nav>
+                <br>
+                ---------------- 
+                <br>
+    {% if page.previous %}
+    <a href="{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; {{ page.previous.title }}</a>
+    {% endif %}
+    {% if page.next %}
+    <a href="{{ page.next.url }}" title="{{ page.next.title }}"><br/>{{ page.next.title }} &rarr;</a>
+    {% endif %}
+</nav>
+            <!-- Share & Comments -->
+            {% include scripts/share.html %}            
+        </div>
+        
+    </div>
+</div>
+<script>
+    $(".page-preview-icon").hover(function(){
+        $(this).parents(".page-nav").css("z-index","5000");
+    });
+    {% include scripts/disqus.html %}
+</script>

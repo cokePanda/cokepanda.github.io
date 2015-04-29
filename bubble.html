@@ -1,0 +1,22 @@
+---
+layout: default
+title: bubble
+---
+<div class="col-sm-12">
+    <div class="page-title">
+        Category: {{ page.title }}
+    </div>
+    <div class="page-content">
+        <ul class="page-list">
+            {% for post in site.posts %}
+                {% capture this_cat %}{{post.categories}}{% endcapture %}
+                {% if this_cat =='bubble' %}
+                <li>
+                    <time class="timeago postlist-meta" datetime="{{ post.date |  date: "%A %-d %B %Y" }}">{{ post.date }}</time>
+                    &mdash; <a href="{{ post.url | prepend: site.url }}">{{ post.title }} </a> -{{ post.tags }}-
+                </li>
+                {% endif %}
+            {% endfor %} 
+        </ul>
+    </div>
+</div>
