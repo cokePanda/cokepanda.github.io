@@ -5,7 +5,7 @@ date: 2015-04-19 23:12:32
 tags: [tradition, life]
 categories: River
 comments: true
-archive: false
+archive: true
 ---
 <img class="cpanda" src="/0005.jpg" alt="waha"/>
 

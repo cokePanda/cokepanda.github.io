@@ -6,7 +6,7 @@ layout: default
     <div class="page">
         {% for post in site.posts %}
            {% capture this_cat %}{{ post.categories }}{% endcapture %}
-            {% if forloop.index < 5  %}
+            {% if post.archive == false  %}
             <div class="page-item">
                 <div class="col-sm-8">
                     <ul class="page-item-title">
