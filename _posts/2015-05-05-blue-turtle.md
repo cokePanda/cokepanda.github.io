@@ -72,6 +72,6 @@ So if you had to write a 1000-word essay in Chinese, what would be your choice?
 
 Nowadays, people do not need to write a long paragraph by hand after college. Keyboard plays more role of pen. You maybe just need to practice handwriting for signature. However I like to read history book printed in traditional Chinese with little obstacle as if talking to ancients more closely.   
 
-Are you still guessing the answer for the above quiz? It is the fifth one. If you want to know the meaning of every character, check [this](http://www.cokepanda.com/03/12/2013/My-Panda-Kindle3-One-Of-A-Kind/) out.
+Are you still guessing the answer for the above quiz? It is the fifth one. If you want to know the meaning of every character, check [this](http://www.cokepanda.com/2014/03/My-Panda-Kindle3-One-Of-A-Kind/) out.
 
 Thanks for the photo by Danny de Bruyne on freeimages.          
