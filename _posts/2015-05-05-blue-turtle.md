@@ -21,9 +21,9 @@ And then he drew another two lines paralleled.
 
 "`二` two, two windows." he pointed back.
 
-I noded.
+I nodded.
 
-He looked at me, added a shorter line between the two, and asked me,
+He looked at me, added a shorter line between the two, and asked,
 
 "How about this?"
 
@@ -70,8 +70,25 @@ Maybe you know there are two sets of Chinese characters popularly used, traditio
 
 So if you had to write a 1000-word essay in Chinese, what would be your choice?   
 
-Nowadays, people do not need to write a long paragraph by hand after college. Keyboard plays more role of pen. You maybe just need to practice handwriting for signature. However I like to read history book printed in traditional Chinese with little obstacle as if talking to ancients more closely.   
+Nowadays, people do not need to write a long paragraph by hand after college. Keyboard plays more role of pen. You maybe just need to practice handwriting for signature. However I like to read history book printed in traditional Chinese with little obstacle as if talking to ancients more closely. Those history books are written in classic Chinese which is a extremely concise style and much different from what we take in speaking and writing in modern everyday life. I do not know Latin, therefore perhaps get wrong if I put classic Chinese as Latin to English. It is a natural selection if you track back to the reason: scarcity of resources. Before paper was invented, bamboo slips and silk played the role of carrying information and knowledge. Since the latter was so previous, even the emperors and kings could read books made of bamboo which are so heavy to hold and move. It is only one out -- conveying your idea as few words as possible. So one-character word rules the essays before century nineteen while now we generally adopt two-character ones which just drop off from our mouths. Those bamboo books place on shelf like toilet paper but much thicker. Left hand holds it, and right hand pulls to spread for reading, so your eyes will move from top to bottom and from right to left. You must be familiar with the following.
 
+>I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.
+
+>Five score years ago, a great American, in whose symbolic shadow...  
+
+If Mr. Martin Luther King Jr. happened to have a Chinese assistant coming from year 1900 to prepare his speech, he would hold a draft like this.       
+
+<img class="cpanda" src="http://7xi3j8.com1.z0.glb.clouddn.com/cokepanda.com_vertical.jpg"/>
+
+When you read it, your friends, partner, kids, dog or cat around you maybe thought you were nodding something. Yes, yes, the author is damn right. Such a perfect way to persuade others and trap them, isn't it? Change the reader's behavior to change their mind. It is said that some scientists conclude that the nodding-style reading hinders the development of mechanical revolution in China which during century nineteen was outpaced vastly by western countries where people read books in a way of swing head right and left always holding a skeptical attitude towards author to make a breakthrough. Have you noticed that there are no comma and period in the paragraph above showed? Chinese ancients treat this as a delicate technique meaning that you should get trained to cut apart sentences and paragraphs precisely in context without misunderstanding authors. It is kind of like a maze to go through for reading.
+
+How about I tune up a little bit the color of font and background in the above picture?
+What do you see?  
+
+<img class="cpanda" src="http://7xi3j8.com1.z0.glb.clouddn.com/cokepanda.com_vblack.jpg"/>
+
+Yes, the movie in which only could Leo read.
+ 
 Are you still guessing the answer for the above quiz? It is the fifth one. If you want to know the meaning of every character, check [this](http://www.cokepanda.com/2014/03/My-Panda-Kindle3-One-Of-A-Kind/) out.
 
-Thanks for the photo by Danny de Bruyne on freeimages.          
+Thanks for the first photo by Danny de Bruyne on freeimages.          
