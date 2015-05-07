@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blue Tortoise 
+title: A Blue Tortoise 
 date: 2015-05-05 22:43:52
 tags: [language, funny]
 categories: Pattern
@@ -15,7 +15,7 @@ After dinner, some played mahjong or Chinese poker, and some went to cinema. The
 
 "This is `一` one. Like one door."
  
-"So easy" I chuckled.   
+"So easy." I chuckled.   
 
 And then he drew another two lines paralleled. 
 
@@ -37,10 +37,9 @@ He grinned," You think you got it, right?"
 
 "Let me tell a story."
 
-Once upon a time, there was a kid playing around. His father was a farm-lord and suffered from illiteracy, so hired a tutor to teach the son read and write. The tutor  routinely started from one, two and three. The kid was very clever and grasped at  once. He ran to his father and said that he already knew everything and the tuter could be fired to save money. His father believed in him. One day, the father wanted to write a letter to his friend whose surname is Wan `万`(ten thousands). His son was excitedly and jumped to his room to finish this mission carrying pen and paper. From morning to noon, he had been working inside, so his father got confused and wondered what's going on there. He pushed the door open and saw his son keeping draw lines on the paper with thousands of lines like a printer. "I am busy writing." the son complained," why do your friend take a name of Wan `万`! He does need a change."   
+Once upon a time, there was a kid playing around. His father was a farm-lord and suffered from illiteracy, so hired a tutor to teach the son read and write. The tutor  routinely started from one, two and three. The kid was very clever and grasped at  once. He ran to his father and said that he already knew everything and the tuter could be fired to save money. His father believed in him. One day, the father wanted to write a letter to his friend whose surname is Wan `万`(ten thousands). His son was excitedly and jumped to his room to finish this mission carrying pen and paper. From morning to noon, he had been working inside, so his father got confused and wondered what's going on there. He pushed the door open and saw his son was still drawing lines on the paper with thousands of lines like a printer. "I am busy writing." the son complained," why do your friend take a name of Wan `万`! He does need a change."   
 
-Chinese is a type of hieroglyph evolved thousands years. We still could catch some logic like `一``二``三` to one, two and three. But more others have transformed enormously. 
-The famous philosopher Lao-tzu of ancient China tried to explained the universe with so-called Dao and suggested that one generates two, two generates three, and three generates everything. Kind of like god make Adam and Eva, and then the two make human beings with guilt. No offense, human really keep wondering there we come from.
+Chinese is a type of hieroglyph evolved thousands years. We still could catch some logic like `一``二``三` to one, two and three. But more others have transformed enormously. The famous philosopher Lao-tzu of ancient China tried to explained the universe with so-called Dao and suggested that one generates two, two generates three, and three generates everything. Kind of like that god make Adam and Eva, and then the two make human beings with guilt. No offense, human really keep wondering there we come from.
 
 Lets come back and take a quiz.
 
@@ -48,7 +47,7 @@ What is four in the following?
 
 `口` `田` `皿` `回` `四` `井` `丰` `卅` `六`？
 
-Maybe you already noticed that it is terribly easy to fake the numbers when they include one, two and three. For example, you need to write down "one hundred and twenty-three dollars" besides Arabic "$ 123" when paying someone with a check. It is said another famous guy Confucius help Chinese solve the problem. He ruled that `壹贰叁肆伍陆柒捌玖拾` represent one to ten orderly in necessary scenario. Look closely, you still could find `一二三` from the first three characters, couldn't you?
+Maybe you already noticed that it is terribly easy to fake the numbers when they include one, two and three. For example, you need to write down "one hundred and twenty-three dollars" besides Arabic "$ 123" when paying someone with a check. It is said another famous guy Confucius helped Chinese solve the problem. He ruled that `壹贰叁肆伍陆柒捌玖拾` represent one to ten orderly in necessary scenario. Look closely, you still could find `一二三` from the first three characters, couldn't you?
 
 We use `十` as ten, so `廿` as twenty. What's thirty? Move up your mouse, and there it is `卅`. So I give you a tip if you are still trying to figure out the quiz.
 Then you maybe go further to take `井` as forty? Haha, you are trapped. 
@@ -58,19 +57,19 @@ In China, rewriting your name 50 or 100 times is always the favorite penalty ado
 
 "Hey, Ding Yi `丁乙`, why could not you keep quiet during class？Otherwise you have to write your name 100 times as homework. See your classmate Xiong Linkui `熊麟夔`, behaves so well after I told him once."
 
- No wonder now Chinese couples are getting much more cautious to name their children. But it is totally another story as to birthday. Usually, the store staff will write down happy birthday to your name using cream pen on toppings as you order a DOB cake. No one knows exact time, across the country, that thousands of guys with name Zhuge Cangcang `诸葛藏藏` come out and  shop clerks hear from the phone, "yes, my parents name me that. It is my name. Do you know how to write it? I could fax it to you." 
+ No wonder now Chinese couples are getting much more cautious to name their children. But it is totally another story as to birthday. Usually, the store staff will write down happy birthday to your name using cream pen on toppings as you order a DOB cake. No one knows exact time, across the country, that thousands of guys with name Zhuge Cangcang `诸葛藏藏` come out and  shop clerks hear from the phone, "yes, my parents named me that. It is my name. Do you know how to write it? I could fax it to you." 
 
 In ancient China, there are a sort of professional called fortune-teller. They do business on the street in cities like food cart, sitting behind a table with paper and pen on it and placing a banner of Half Immortal Sam over head. Yes, they are very modest and only call themselves on the middle way to be a fairy. When you go to see a fortune-teller, he would ask you to write a character in your mind, and then look through it to dig some tips for your future. They act like actually shrink, checking the visitor's behavior, look, posture and talk. Even though the written character does reflect some deep thought haunting customer, it is only used as a door to the fortune-teller's office where visitors look forward to peace facing the uncertain future. Those shrinks need time to probe your eager needs and use it as an orientation to decompose the character as a tool to seize your trust. They help you dismiss the uncertainty you fear of temporarily and you pay them certainly. 
 
-Once a guy built a house with walls surrounding the yard like `口` and then he planted a tree `木` in it. After some days, he suddenly realized that, "Such an idiot I am. A tree inside a squared yard makes a trap `困`. How can I get good wishes from that!" Without any hesitation, he chopped the tree down. His neighbor saw that and got curious. Then he mocked after knowing the reason, "Okay,  since you are a person `人`, now you living inside the yard  become a prisoner `囚`. That is what you do want?"   
+Once a guy built a house with walls surrounding the yard like `口` and then he planted a tree `木` in it. After some days, he suddenly realized that, "Such an idiot I am. A tree inside a squared yard makes a trap `困`. How can I gain good wishes from that!" Without any hesitation, he chopped the tree down. His neighbor saw that and got curious. Then he mocked after knowing the reason, "Okay,  since you are a person `人`, now you living inside the yard  become a prisoner `囚`. That is what you do want?"   
 
-Maybe you know there are two sets of Chinese characters popularly used, traditional and simplified. You could be sharply impressed by blue tortoise.
+Maybe you are aware of that there are two sets of Chinese characters popularly used nowadays, traditional and simplified. You could be sharply impressed by a blue tortoise.
 
-`憂鬱的烏龜` v.s. `忧郁的乌龟`
+`壹隻憂鬱的烏龜` v.s. `一只忧郁的乌龟`
 
 So if you had to write a 1000-word essay in Chinese, what would be your choice?   
 
-Nowadays, people do not need to write a long paragraph by hand after college. Keyboard plays more role of pen. You maybe just need to practice handwriting for signature. However I like to read history book printed in traditional Chinese with little obstacle as if talking to ancients more closely. Those history books are written in classic Chinese which is a extremely concise style and much different from what we take in speaking and writing in modern everyday life. I do not know Latin, therefore perhaps get wrong if I put classic Chinese as Latin to English. It is a natural selection if you track back to the reason: scarcity of resources. Before paper was invented, bamboo slips and silk played the role of carrying information and knowledge. Since the latter was so previous, even the emperors and kings could read books made of bamboo which are so heavy to hold and move. It is only one out -- conveying your idea as few words as possible. So one-character word rules the essays before century nineteen while now we generally adopt two-character ones which just drop off from our mouths. Those bamboo books place on shelf like toilet paper but much thicker. Left hand holds it, and right hand pulls to spread for reading, so your eyes will move from top to bottom and from right to left. You must be familiar with the following.
+Nowadays, people do not even need to write a long paragraph by hand after college. Keyboard plays more role of pen. You maybe just need to practice handwriting for signature. However I like to read history book printed in traditional Chinese with little obstacle as if talking to ancients more closely. Those history books are written in classic Chinese which is a extremely concise style and much different from what we take in speaking and writing in modern everyday life. I do not know Latin, therefore perhaps get wrong if I put classic Chinese as Latin to English. It is a natural selection if you track back to the reason: scarcity of resources. Before paper was invented, bamboo slips and silk played the role of carrying information and knowledge. Since the latter was so previous, even the emperors and kings could read books made of bamboo which are so heavy to hold and move. It is only one out -- conveying your idea as few words as possible. So one-character word rules the essays before century nineteen while now we generally adopt two-character ones which just drop off from our mouths. Those bamboo books place on shelf like toilet paper but much thicker. Left hand holds it, and right hand pulls to spread for reading, so your eyes will move from top to bottom and from right to left. You must be familiar with the following.
 
 >I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.
 
