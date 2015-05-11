@@ -77,14 +77,14 @@ Nowadays, people do not even need to write a long paragraph by hand after colleg
 
 If Mr. Martin Luther King Jr. happened to have a Chinese assistant coming from year 1900 to prepare his speech, he would hold a draft like this.       
 
-<img class="cpanda" src="http://7xi3j8.com1.z0.glb.clouddn.com/cokepanda.com_vertical.jpg"/>
+<img class="cpanda" src="http://7xi3j8.com1.z0.glb.clouddn.com/cokepanda.com_vwe.jpg"/>
 
 When you read it, your friends, partner, kids, dog or cat around you maybe thought you were nodding something. Yes, yes, the author is damn right. Such a perfect way to persuade others and trap them, isn't it? Change the reader's behavior to change their mind. It is said that some scientists conclude that the nodding-style reading hinders the development of mechanical revolution in China which during century nineteen was outpaced vastly by western countries where people read books in a way of swing head right and left always holding a skeptical attitude towards author to make a breakthrough. Have you noticed that there are no comma and period in the paragraph above showed? Chinese ancients treat this as a delicate technique meaning that you should get trained to cut apart sentences and paragraphs precisely in context without misunderstanding authors. It is kind of like a maze to go through for reading.
 
 How about I tune up a little bit the color of font and background in the above picture?
 What do you see?  
 
-<img class="cpanda" src="http://7xi3j8.com1.z0.glb.clouddn.com/cokepanda.com_vblack.jpg"/>
+<img class="cpanda" src="http://7xi3j8.com1.z0.glb.clouddn.com/cokepanda.com_vbk.jpg"/>
 
 Yes, the movie in which only could Leo read.
  
