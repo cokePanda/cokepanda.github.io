@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No One Child Left Behind
+title: No Child Left Behind
 date: 2015-04-01 08:12:32
 tags: [tradition, education]
 categories: River
