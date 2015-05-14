@@ -2,7 +2,7 @@
 layout: post
 title: No Child Left Behind
 date: 2015-04-01 08:12:32
-tags: [tradition, education]
+tags: [funny, education]
 categories: River
 comments: true
 archive: false
