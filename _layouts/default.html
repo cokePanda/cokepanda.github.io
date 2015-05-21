@@ -14,17 +14,17 @@
                         </a>
                     </header>
                     {% include sidenav.html %}                     
-                </nav>
+                </nav> 
                 <header id="menu" role="banner">
                     <p class="menu-title">Menu</p>
                     <a href="#nav" class="menu-btn">
                         <img src="{{ "/assets/fonts/menu-btn.svg" | prepend: site.url }}" alt="menu button">
                     </a>
                 </header>
-                <!-- Content --> 
+                <!-- Content -->  
                 <div class="col-sm-10">
                     <nav class="top">
-                        <img id="panda" src="/icon32.png"> <span class="hl"> {{ site.name | upcase}}</span> &mdash;&mdash; <i>{{ site.description }}</i>
+                       <img id="panda" src="/icon32.png"> <span class="hl"> {{ site.name | upcase}}</span> &mdash;&mdash; <a class="apanda" href="{{ "/index.html" | prepend: site.url }}"> <i>{{ site.description }}</i></a>
                         <span class="pull-right">
                             <a id="twitter-ic" class="link" href="https://twitter.com/{{site.owner.twitter}}">
                                 <i class="fa fa-twitter fa-lg"></i>
