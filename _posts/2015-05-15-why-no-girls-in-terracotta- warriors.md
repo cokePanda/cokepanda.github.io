@@ -9,7 +9,7 @@ archive: true
 ---
 <img class="cpanda" src="/0005.jpg" alt="waha"/>
 
-<font size="5">*T*</font>bc.
+<font size="5">*T*</font>he India Prime Minister Narendra Modi arrived in Xi'an city of Shaaxi Province May 14,starting his three-day jounnry to China.
 
 
 
