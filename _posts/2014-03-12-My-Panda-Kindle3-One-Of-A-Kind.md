@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One of a Kind--My Panda Kindle3
+title: One of a Kind -- My Panda Kindle3
 date: 2014-03-12 23:28:42
 tags: kindle3
 categories: Bubble
